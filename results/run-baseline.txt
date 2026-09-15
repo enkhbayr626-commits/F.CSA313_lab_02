@@ -1,0 +1,28 @@
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......: 140     4.511033/s
+    checks_succeeded...: 100.00% 140 out of 140
+    checks_failed......: 0.00%   0 out of 140
+
+    ✓ status 200 байна
+
+    HTTP
+    http_req_duration..............: avg=107.59ms min=102.51ms med=106.92ms max=117.98ms p(90)=111.53ms p(95)=112.03ms
+      { expected_response:true }...: avg=107.59ms min=102.51ms med=106.92ms max=117.98ms p(90)=111.53ms p(95)=112.03ms
+    http_req_failed................: 0.00% 0 out of 140
+    http_reqs......................: 140   4.511033/s
+
+    EXECUTION
+    iteration_duration.............: avg=1.1s     min=1.1s     med=1.1s     max=1.12s    p(90)=1.11s    p(95)=1.11s   
+    iterations.....................: 140   4.511033/s
+    vus............................: 5     min=5        max=5
+    vus_max........................: 5     min=5        max=5
+
+    NETWORK
+    data_received..................: 30 kB 952 B/s
+    data_sent......................: 11 kB 352 B/s
+
+
+

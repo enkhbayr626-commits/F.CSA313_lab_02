@@ -1,5 +1,6 @@
 .tools/
 .docx_render/
 node-server.log
+node-server-error.log
+.server.pid
 Lab02 - Гүйцэтгэлийн хэмжүүр k6 (2026).docx
-
